@@ -8,7 +8,7 @@ setup(
     version=__version__,
     description='Temperature conversion between C/D/F/K/Ra/Re/N/Rø',
     long_description=open('README.rst').read(),
-    url='https://gitlab.com/renegadevi/pytemp',
+    url='https://gitlab.com/renegadevi/temp2temp',
     author='Philip Andersen',
     author_email='philip.andersen@codeofmagi.net',
     license='MIT',
