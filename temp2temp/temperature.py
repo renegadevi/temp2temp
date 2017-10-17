@@ -233,7 +233,7 @@ class Reaumur:
     @staticmethod
     def to_romer(reaumur):
         """ Convert reaumur to romer """
-        return reaumur * (21 / 32) +7.5
+        return reaumur * (21 / 32) + 7.5
 
 
 class Newton:
