@@ -23,7 +23,6 @@ Background
 
 I could only find packages that had Celsius to Fahrenheit or Kelvin, which I found a bit lacking as I would not define it as a 'complete' package that others may need in the future.
 
-It's is currently in beta stage as I am now in the process now to properly test and verify the results and if there's any conversions errors that could happen.
 
 Usage example
 -------------
