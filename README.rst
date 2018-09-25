@@ -66,4 +66,4 @@ Usage example
 Licence
 -------
 
-**temp2temp** is licensed under the MIT licence. See LICENCE.txt for details.
+**temp2temp** is licensed under the MIT license. See LICENSE.txt for details.
