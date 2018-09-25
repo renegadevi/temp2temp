@@ -8,8 +8,8 @@ temp2temp
   :alt: Version on PyPI
 
 .. image:: https://img.shields.io/pypi/l/temp2temp.svg
-  :target: https://gitlab.com/renegadevi/temp2temp/raw/master/LICENCE.txt
-  :alt: Licence
+  :target: https://gitlab.com/renegadevi/temp2temp/raw/master/LICENSE.txt
+  :alt: License
 
 
 Introduction
